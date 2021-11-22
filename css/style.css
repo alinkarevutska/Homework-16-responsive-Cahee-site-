@@ -692,7 +692,7 @@ textarea::placeholder {
         -ms-flex-pack: start;
             justify-content: start;
     position: absolute;
-    top: -400%;
+    top: -435%;
     right: 35%;
     -webkit-transition-duration: .5s;
             transition-duration: .5s;
